@@ -1,5 +1,7 @@
-/*
+/**
  * The strategy is adding the elements to the empty string is like push the elements into the stack
+ * While loop: use the condition to decide whether to breakthe loop or not
+ * For loop: use times to decide whether to break the loop or not 
  */
 # include "string"
 using namespace std;
